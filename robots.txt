@@ -1,2 +1,43 @@
-User-agent: *
+User-Agent: SolomonoBot
 Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+user-agent: AhrefsBot/5.0
+disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: dotbot
+Disallow: /
+
+User-agent: dotbot/1.1
+Disallow: /
+
+User-agent: rogerbot
+Disallow: /
+
+User-agent: linkdexbot/2.0
+Disallow: /
+
+User-agent: Genieo
+Disallow: /
+
+User-agent: Baiduspider
+User-agent: Baiduspider-video
+User-agent: Baiduspider-image
+Disallow: /
+
+User-Agent: Googlebot
+Allow: *.js
+Allow: *.css
+Allow: *.jpg
+Allow: *.png
+
+User-agent: *
+Allow: /
